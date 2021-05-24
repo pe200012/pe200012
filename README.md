@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![pe200012's GitHub stats](https://github-readme-stats.vercel.app/api?username=pe200012)](https://github.com/anuraghazra/github-readme-stats)
+[![pe200012's GitHub stats](https://github-readme-stats.vercel.app/api?username=pe200012&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 I am an undergraduate student of Jinan University majoring in CS. I prefer functional programming and am currently learning programming language theory. Send mails to me if you have questions.
