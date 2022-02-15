@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img width="900em" src="https://github-readme-stats.vercel.app/api?username=pe200012&show_icons=true&icon_color=f44336&title_color=757de8">
+    <img width="900em" src="https://github-readme-stats.vercel.app/api?username=pe200012&show_icons=true&icon_color=f44336&title_color=757de8">
 </p>
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe200012&hide=html&title_color=757de8&layout=compact>
+
+<p>
+    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe200012&hide=html&title_color=757de8&layout=compact>
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
