@@ -16,4 +16,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: false
           SHOW_TITLE: true
-          TIME_RANGE: "last_30_days"
+  #        TIME_RANGE: "last_30_days"
