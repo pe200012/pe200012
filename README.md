@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+```text
+Haskell    1 hr 41 mins    ███████████████████████▒░   93.95 % 
+Markdown   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+```
 <!--END_SECTION:waka-->
 
 I am an undergraduate student of Jinan University majoring in CS. I prefer functional programming and am currently learning programming language theory. Feel free to PM me if you have questions.
