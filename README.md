@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Haskell    1 hr 41 mins    ███████████████████████▒░   93.95 % 
-Markdown   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Week: 08 February, 2022 - 14 February, 2022
+
+Haskell    ██████████████████████████████████████▓░░   93.95 % 
+Markdown   ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 ```
 <!--END_SECTION:waka-->
 
