@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+From: 07 February, 2022 - 14 February, 2022
 
 Haskell    ██████████████████████████████████████▓░░   93.95 % 
 Markdown   ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
