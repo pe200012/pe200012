@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe200012&hide=html&title_color=757de8&layout=compact>
+    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe200012&hide=html&title_color=757de8&layout=compact">
 </p>
 
 <!--START_SECTION:waka-->
