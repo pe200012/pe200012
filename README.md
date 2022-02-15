@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-[![pe200012's GitHub stats](https://github-readme-stats.vercel.app/api?username=pe200012&show_icons=true&icon_color=f44336&title_color=757de8)](https://github.com/anuraghazra/github-readme-stats)
+<img width="900em" src="https://github-readme-stats.vercel.app/api?username=pe200012&show_icons=true&icon_color=f44336&title_color=757de8">
 </p>
-[![pe200012 lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pe200012&hide=html&title_color=757de8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe200012&hide=html&title_color=757de8&layout=compact>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
