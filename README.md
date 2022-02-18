@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-From: 09 February, 2022 - 16 February, 2022
+From: 09 February, 2022 - 16 February, 2022Total: 10 hrs 9 mins
 
 Haskell     ███████████████████████░░░░░░░░░░░░░░░░░░   56.27 % 
 Agda        ███████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   18.57 % 
