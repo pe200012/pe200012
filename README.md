@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 19 March, 2022 - To: 26 March, 2022
+
+Haskell   █████████████████████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
