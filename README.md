@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 May, 2022 - To: 22 May, 2022
+From: 16 May, 2022 - To: 23 May, 2022
 
-Assembly   █████████████████████████████████████████   100.00 % 
+Haskell    ███████████████████████████████████████▒░   96.14 % 
+Assembly   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+YAML       ▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
 
