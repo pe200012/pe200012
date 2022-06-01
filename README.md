@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-From: 23 May, 2022 - To: 30 May, 2022
+From: 24 May, 2022 - To: 31 May, 2022
 
-Haskell   █████████████████████████████████████████   99.71 % 
+Docker       █████████████████████░░░░░░░░░░░░░░░░░░░░   51.42 % 
 ```
 <!--END_SECTION:waka-->
 
