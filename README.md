@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-From: 06 August, 2022 - To: 13 August, 2022
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
