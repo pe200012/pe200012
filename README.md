@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 21 August, 2022 - To: 28 August, 2022
+
+C++       ████████████████████████████████░░░░░░░░░   78.02 % 
+Haskell   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.20 % 
+JSON      █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 <!--END_SECTION:waka-->
 
