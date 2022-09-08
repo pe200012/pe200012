@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-From: 30 August, 2022 - To: 06 September, 2022
+From: 31 August, 2022 - To: 07 September, 2022
 
-Other   ███████████████████████████████████▓░░░░░   87.22 % 
-V       █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-JSON    ▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+V   █████████████████████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
