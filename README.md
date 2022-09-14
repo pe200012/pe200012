@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-From: 05 September, 2022 - To: 12 September, 2022
+From: 06 September, 2022 - To: 13 September, 2022
 
 TeX       ██████████████████████████▓░░░░░░░░░░░░░░   64.98 % 
 Python    ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   16.86 % 
