@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-From: 12 October, 2022 - To: 19 October, 2022
-
-C++   ███████████████████████████████████████▓░   97.02 % 
-Git   █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
