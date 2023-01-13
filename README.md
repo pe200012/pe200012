@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=pe200012&show_icons=true&icon_color=f44336&title_color=757de8">
-    <img width="400em" height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe200012&hide=html,cmake,css&title_color=757de8&layout=compact">
+    <img width="400em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pe200012&show_icons=true&icon_color=f44336&title_color=757de8">
+    <img width="400em" height="159em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pe200012&hide=html,cmake,css&title_color=757de8&layout=compact">
 </p>
 
 I am an undergraduate student of Jinan University majoring in CS. I prefer functional programming and am currently learning programming language theory. Feel free to PM me if you have questions.
