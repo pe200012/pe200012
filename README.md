@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://www.codewars.com/users/pe200012/badges/large)
 <p>
-    <img width="400em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pe200012&show_icons=true&icon_color=f44336&title_color=757de8">
+    <img width="400em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pe200012&show_icons=true&icon_color=f44336&title_color=757de8&rank_icon=github">
     <img width="400em" height="159em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pe200012&hide=html,cmake,css&title_color=757de8&layout=compact">
 </p>
 
