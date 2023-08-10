@@ -20,4 +20,7 @@ Here are some ideas to get you started:
     <img width="400em" height="159em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pe200012&hide=html,cmake,css&title_color=757de8&layout=compact">
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 I am an undergraduate student of Jinan University majoring in CS. I prefer functional programming and am currently learning programming language theory. Feel free to PM me if you have questions.
