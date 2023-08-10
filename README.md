@@ -21,6 +21,16 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+
+```all_time
+From: 02 August 2023 - To: 09 August 2023
+
+Total Time: 15 hrs 21 mins
+
+OCaml        12 hrs 36 mins  ███████████████░░░░░░░░░░   59.94 %
+Other        5 hrs 39 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
+```
+
 <!--END_SECTION:waka-->
 
 I am an undergraduate student of Jinan University majoring in CS. I prefer functional programming and am currently learning programming language theory. Feel free to PM me if you have questions.
