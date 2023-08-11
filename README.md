@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 August 2023 - To: 09 August 2023
+From: 03 August 2023 - To: 10 August 2023
 
-Total Time: 15 hrs 21 mins
+Total Time: 22 hrs 26 mins
 
-OCaml        12 hrs 36 mins  ███████████████░░░░░░░░░░   59.94 %
-Other        5 hrs 39 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
+OCaml        15 hrs 20 mins  █████████████░░░░░░░░░░░░   52.57 %
+Other        6 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
 ```
 
 <!--END_SECTION:waka-->
