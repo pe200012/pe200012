@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-Total Time: 55 hrs 55 mins
+Total Time: 52 hrs 21 mins
 
-Haskell          26 hrs 56 mins  ███████████░░░░░░░░░░░░░░   43.83 %
-OCaml            20 hrs 21 mins  ████████▒░░░░░░░░░░░░░░░░   33.11 %
-Other            5 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Haskell          22 hrs 26 mins  ██████████░░░░░░░░░░░░░░░   39.76 %
+OCaml            21 hrs 15 mins  █████████▒░░░░░░░░░░░░░░░   37.67 %
+Other            4 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
 ```
 
 <!--END_SECTION:waka-->
