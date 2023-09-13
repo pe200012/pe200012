@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-Total Time: 12 hrs 23 mins
+Total Time: 8 hrs 21 mins
 
-OCaml            5 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.06 %
-Python           1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-TeX              1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Assembly         1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-Haskell          1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Ezhil            33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-GDScript         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Bash             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+OCaml            3 hrs 21 mins   ██████████░░░░░░░░░░░░░░░   40.12 %
+Python           1 hr 42 mins    █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+Assembly         1 hr 40 mins    █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+Ezhil            35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+TeX              34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+GDScript         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Haskell          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Bash             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+ca65 assembler   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
