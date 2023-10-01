@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 22 September 2023 - To: 29 September 2023
+From: 23 September 2023 - To: 30 September 2023
 
-Total Time: 21 hrs 49 mins
+Total Time: 12 hrs 29 mins
 
-OCaml            7 hrs 22 mins   ████████▒░░░░░░░░░░░░░░░░   33.74 %
-GDScript         4 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
-Haskell          1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Python           1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-JavaScript       1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-HTML             1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-GDScript3        1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-ActionScript     52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Makefile         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Ezhil            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+OCaml            3 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+Haskell          1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+GDScript         1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+JavaScript       1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+GDScript3        1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+HTML             1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Python           55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Makefile         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+ActionScript     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Bash             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
