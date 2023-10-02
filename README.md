@@ -23,20 +23,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 September 2023 - To: 30 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
-Total Time: 12 hrs 29 mins
+Total Time: 4 hrs 23 mins
 
-OCaml            3 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
-Haskell          1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-GDScript         1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-JavaScript       1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-GDScript3        1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-HTML             1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-Python           55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Makefile         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-ActionScript     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Bash             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+OCaml            2 hrs 42 mins   ███████████████▒░░░░░░░░░   61.47 %
+GDScript3        1 hr 3 mins     ██████░░░░░░░░░░░░░░░░░░░   24.14 %
+Bash             14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+JSON             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Ezhil            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+HTML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+ActionScript     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Perl             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
