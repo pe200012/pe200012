@@ -23,16 +23,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 26 September 2023 - To: 03 October 2023
+From: 27 September 2023 - To: 04 October 2023
 
-Total Time: 2 hrs 42 mins
+Total Time: 58 mins
 
-OCaml       2 hrs 22 mins   ██████████████████████░░░   87.63 %
-JSON        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-GDScript3   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Bash        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Perl        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+OCaml       55 mins         ████████████████████████░   95.62 %
+Perl        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+GDScript3   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
