@@ -23,14 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
-Total Time: 58 mins
+Total Time: 0 secs
 
-OCaml       55 mins         ████████████████████████░   95.62 %
-Perl        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-GDScript3   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
