@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 October 2023 - To: 12 October 2023
+From: 06 October 2023 - To: 13 October 2023
 
-Total Time: 18 hrs 14 mins
+Total Time: 22 hrs 13 mins
 
-OCaml            14 hrs 7 mins   ███████████████████▒░░░░░   76.88 %
-Python           51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Haskell          43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-GDScript         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Assembly         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Ezhil            21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-JavaScript       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-ca65 assembler   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-ActionScript 3   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+OCaml            17 hrs 18 mins  ███████████████████▒░░░░░   77.44 %
+JavaScript       1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+GDScript         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Haskell          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Assembly         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+TSQL             28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Ezhil            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+ActionScript 3   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+ca65 assembler   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
