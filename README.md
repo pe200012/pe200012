@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 08 October 2023 - To: 15 October 2023
+From: 09 October 2023 - To: 16 October 2023
 
-Total Time: 22 hrs 14 mins
+Total Time: 19 hrs 8 mins
 
-OCaml            17 hrs 28 mins  ███████████████████░░░░░░   76.15 %
-JavaScript       2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-TSQL             53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Other            41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+OCaml            14 hrs 54 mins  ███████████████████░░░░░░   75.45 %
+JavaScript       2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+TSQL             53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Other            38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
