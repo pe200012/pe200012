@@ -23,20 +23,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 October 2023 - To: 25 October 2023
+From: 20 October 2023 - To: 27 October 2023
 
-Total Time: 21 hrs 20 mins
+Total Time: 30 hrs 49 mins
 
-OCaml             8 hrs 30 mins   ██████████░░░░░░░░░░░░░░░   39.45 %
-TypeScript        6 hrs 37 mins   ███████▓░░░░░░░░░░░░░░░░░   30.76 %
-Haskell           2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-JSON              46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-GDScript          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Text              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Java Properties   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Groovy            26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Python            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-ActionScript 3    18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+OCaml             10 hrs 52 mins  ████████▓░░░░░░░░░░░░░░░░   34.81 %
+Haskell           8 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   28.53 %
+TypeScript        6 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
+Text              47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+JSON              47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+GDScript          34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Java Properties   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Groovy            26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Other             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
