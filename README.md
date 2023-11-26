@@ -23,14 +23,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 17 November 2023 - To: 24 November 2023
+From: 18 November 2023 - To: 25 November 2023
 
-Total Time: 28 hrs 41 mins
+Total Time: 22 hrs 52 mins
 
-Python       11 hrs 23 mins  ████████▒░░░░░░░░░░░░░░░░   33.90 %
-OCaml        10 hrs 31 mins  ███████▓░░░░░░░░░░░░░░░░░   31.31 %
-Haskell      5 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-Other        4 hrs 55 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Python       11 hrs 29 mins  ██████████▓░░░░░░░░░░░░░░   42.71 %
+OCaml        8 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.26 %
+Other        4 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
 ```
 
 <!--END_SECTION:waka-->
