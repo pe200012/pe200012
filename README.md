@@ -23,12 +23,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
-Total Time: 7 hrs 11 mins
+Total Time: 3 hrs 32 mins
 
-Haskell   7 hrs 10 mins   ████████████████████████░   96.09 %
-Other     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+TeX            2 hrs 31 mins   ██████████████████░░░░░░░   71.40 %
+Haskell        53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
+BibTeX         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+BST            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+JSON           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
