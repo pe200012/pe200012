@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 December 2023 - To: 14 December 2023
+From: 08 December 2023 - To: 15 December 2023
 
-Total Time: 8 hrs 48 mins
+Total Time: 9 hrs 58 mins
 
-Markdown       5 hrs 15 mins   ███████████████░░░░░░░░░░   59.75 %
-TeX            3 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   37.47 %
-Less           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-BibTeX         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-OpenEdge ABL   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-BST            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-JSON           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Markdown       6 hrs 26 mins   ████████████████░░░░░░░░░   64.47 %
+TeX            3 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.08 %
+Less           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+BibTeX         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+OpenEdge ABL   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+BST            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JSON           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
