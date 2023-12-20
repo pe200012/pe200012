@@ -23,15 +23,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 11 December 2023 - To: 18 December 2023
+From: 12 December 2023 - To: 19 December 2023
 
-Total Time: 7 hrs 19 mins
+Total Time: 8 hrs 21 mins
 
-Markdown       6 hrs 26 mins   ██████████████████████░░░   87.78 %
-TeX            46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-Less           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-OpenEdge ABL   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-BibTeX         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown       6 hrs 26 mins   ███████████████████▒░░░░░   76.99 %
+Haskell        1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+TeX            44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+Less           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+OpenEdge ABL   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+BibTeX         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Git Config     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
