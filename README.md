@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 December 2023 - To: 20 December 2023
+From: 14 December 2023 - To: 21 December 2023
 
-Total Time: 8 hrs 52 mins
+Total Time: 3 hrs 32 mins
 
-Markdown     6 hrs 26 mins   █████████████████▒░░░░░░░   68.75 %
-TeX          1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Haskell      1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Other        29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+TeX          1 hr 18 mins    ████████░░░░░░░░░░░░░░░░░   32.55 %
+Markdown     1 hr 10 mins    ███████▒░░░░░░░░░░░░░░░░░   29.10 %
+Haskell      1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
+Other        29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
 ```
 
 <!--END_SECTION:waka-->
