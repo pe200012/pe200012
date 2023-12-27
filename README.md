@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 December 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Total Time: 2 hrs 21 mins
+Total Time: 1 hr 18 mins
 
-TeX          1 hr 18 mins    ███████████▒░░░░░░░░░░░░░   45.91 %
-Haskell      1 hr 3 mins     █████████▒░░░░░░░░░░░░░░░   36.88 %
-Other        29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+TeX          1 hr 18 mins    ██████████████████▒░░░░░░   72.74 %
+Other        29 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
 ```
 
 <!--END_SECTION:waka-->
