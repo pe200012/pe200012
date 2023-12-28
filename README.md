@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 December 2023 - To: 26 December 2023
+From: 20 December 2023 - To: 27 December 2023
 
-Total Time: 1 hr 18 mins
+Total Time: 0 secs
 
-TeX          1 hr 18 mins    ██████████████████▒░░░░░░   72.74 %
-Other        29 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
+Other       25 mins         ████████████████████████▒   96.86 %
 ```
 
 <!--END_SECTION:waka-->
