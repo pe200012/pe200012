@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-Total Time: 59 mins
+Total Time: 1 hr 23 mins
 
-Text    59 mins         ████████████████████████▓   99.10 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Text      59 mins         █████████████████▓░░░░░░░   70.77 %
+Haskell   24 mins         ███████░░░░░░░░░░░░░░░░░░   28.60 %
+Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
