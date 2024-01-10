@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-Total Time: 1 hr 23 mins
+Total Time: 2 hrs 37 mins
 
-Text      59 mins         █████████████████▓░░░░░░░   70.77 %
-Haskell   24 mins         ███████░░░░░░░░░░░░░░░░░░   28.60 %
-Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Text       1 hr 13 mins    ███████████▓░░░░░░░░░░░░░   46.09 %
+Markdown   1 hr            █████████▓░░░░░░░░░░░░░░░   38.36 %
+Haskell    24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
