@@ -23,15 +23,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 11 January 2024 - To: 18 January 2024
+From: 12 January 2024 - To: 19 January 2024
 
-Total Time: 4 hrs 17 mins
+Total Time: 2 hrs 38 mins
 
-Haskell    2 hrs 27 mins   ██████████████▒░░░░░░░░░░   57.41 %
-Markdown   59 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
-TeX        39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-JSON       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Haskell   2 hrs 27 mins   ███████████████████████▒░   93.43 %
+JSON      10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+YAML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
