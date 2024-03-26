@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 17 March 2024 - To: 24 March 2024
+From: 18 March 2024 - To: 25 March 2024
 
-Total Time: 51 mins
+Total Time: 15 mins
 
-Markdown   51 mins         █████████████████████████   100.00 %
+Markdown   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
