@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 March 2024 - To: 01 April 2024
+From: 26 March 2024 - To: 02 April 2024
 
-Total Time: 6 hrs 20 mins
+Total Time: 7 hrs 3 mins
 
-TeX            4 hrs 4 mins    ████████████████░░░░░░░░░   64.27 %
-Scala          1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-Python         36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-OpenEdge ABL   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-C              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-BibTeX         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TeX            4 hrs 45 mins   ████████████████▓░░░░░░░░   67.29 %
+Scala          1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
+Python         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+OpenEdge ABL   25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+C              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+BibTeX         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
