@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 April 2024 - To: 11 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-Total Time: 21 hrs 5 mins
+Total Time: 25 hrs 29 mins
 
-TeX            14 hrs 16 mins  █████████████████░░░░░░░░   67.64 %
-Haskell        5 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
-BibTeX         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Python         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-YAML           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-OpenEdge ABL   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TeX            12 hrs 52 mins  ████████████▓░░░░░░░░░░░░   50.53 %
+Haskell        11 hrs 52 mins  ███████████▓░░░░░░░░░░░░░   46.56 %
+BibTeX         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+YAML           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+OpenEdge ABL   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
