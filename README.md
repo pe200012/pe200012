@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 11 April 2024 - To: 18 April 2024
+From: 12 April 2024 - To: 19 April 2024
 
-Total Time: 29 hrs
+Total Time: 21 hrs 36 mins
 
-TeX            16 hrs 36 mins  ██████████████▒░░░░░░░░░░   57.14 %
-Haskell        10 hrs 34 mins  █████████░░░░░░░░░░░░░░░░   36.39 %
-OpenEdge ABL   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-BibTeX         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Other          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TeX            15 hrs 36 mins  ██████████████████░░░░░░░   71.99 %
+Haskell        4 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 %
+OpenEdge ABL   1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+BibTeX         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Other          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
