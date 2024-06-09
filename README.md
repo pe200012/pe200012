@@ -23,16 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 May 2024 - To: 01 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
-Total Time: 7 hrs 10 mins
+Total Time: 3 hrs 2 mins
 
-Haskell        2 hrs 59 mins   ██████████▒░░░░░░░░░░░░░░   41.27 %
-Markdown       1 hr 54 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
-YAML           1 hr 51 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
-OpenEdge ABL   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Nix            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Other          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Haskell   1 hr 56 mins    ████████████████░░░░░░░░░   63.93 %
+YAML      1 hr 5 mins     █████████░░░░░░░░░░░░░░░░   36.07 %
 ```
 
 <!--END_SECTION:waka-->
