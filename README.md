@@ -32,4 +32,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-I am an undergraduate student of Jinan University majoring in CS. I prefer functional programming and am currently learning programming language theory. Feel free to PM me if you have questions.
+Science Tokyo Master, currently supervised by Prof. Hidehiko Masuhara. I prefer functional programming and am currently learning programming language theory. Feel free to PM me if you have questions.
