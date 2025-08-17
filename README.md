@@ -23,16 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 August 2025 - To: 09 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
-Total Time: 7 hrs 29 mins
+Total Time: 14 hrs 59 mins
 
-Haskell   6 hrs 41 mins   ██████████████████████▒░░   89.43 %
-F#        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-GLSL      21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Python    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-YAML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python    11 hrs 30 mins  ███████████████▓░░░░░░░░░   63.32 %
+Other     3 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
 ```
 
 <!--END_SECTION:waka-->
