@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 September 2025 - To: 04 October 2025
+From: 04 October 2025 - To: 11 October 2025
 
-Total Time: 4 hrs 47 mins
+Total Time: 8 hrs
 
-Python   4 hrs 6 mins    █████████████████████▒░░░   85.78 %
-Typst    40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+Other        6 hrs 52 mins   ███████████▓░░░░░░░░░░░░░   46.22 %
 ```
 
 <!--END_SECTION:waka-->
