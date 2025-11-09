@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 October 2025 - To: 01 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
-Total Time: 14 hrs 25 mins
+Total Time: 12 hrs 18 mins
 
-Python   7 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   40.75 %
-Fennel   5 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   32.27 %
-Other    3 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+TypeScript                         5 hrs 25 mins   █████████▓░░░░░░░░░░░░░░░   38.22 %
+Other                              1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
 ```
 
 <!--END_SECTION:waka-->
