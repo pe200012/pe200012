@@ -23,15 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 08 November 2025 - To: 15 November 2025
+From: 15 November 2025 - To: 22 November 2025
 
-Total Time: 20 hrs 4 mins
+Total Time: 21 hrs 6 mins
 
-Fennel       6 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.07 %
-Lua          4 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-TypeScript   3 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
-JavaScript   2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-Other        1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Haskell       14 hrs 39 mins  ███████████████░░░░░░░░░░   59.66 %
+Other         3 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
 ```
 
 <!--END_SECTION:waka-->
