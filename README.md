@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 22 November 2025 - To: 29 November 2025
+From: 29 November 2025 - To: 06 December 2025
 
-Total Time: 11 hrs 53 mins
+Total Time: 1 hr 35 mins
 
-Other          12 hrs 50 mins  █████████████░░░░░░░░░░░░   51.91 %
+Other         9 hrs 51 mins   █████████████████████▓░░░   86.08 %
 ```
 
 <!--END_SECTION:waka-->
