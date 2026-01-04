@@ -23,11 +23,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 December 2025 - To: 27 December 2025
+From: 27 December 2025 - To: 03 January 2026
 
-Total Time: 8 hrs 21 mins
+Total Time: 29 hrs 44 mins
 
-Other          9 hrs 31 mins   █████████████▒░░░░░░░░░░░   53.26 %
+LaTeX          21 hrs 49 mins  ██████████████████░░░░░░░   72.08 %
+Haskell        4 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Ruby           43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Python         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Nix            39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Other          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
