@@ -23,16 +23,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 December 2025 - To: 03 January 2026
+From: 03 January 2026 - To: 10 January 2026
 
-Total Time: 29 hrs 44 mins
+Total Time: 42 hrs 6 mins
 
-LaTeX          21 hrs 49 mins  ██████████████████░░░░░░░   72.08 %
-Haskell        4 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Ruby           43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Python         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Nix            39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Other          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Haskell        29 hrs 21 mins  █████████████████▒░░░░░░░   68.93 %
+LaTeX          7 hrs 37 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+Rust           1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Ruby           1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+YAML           48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Cabal Config   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Other          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
