@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 January 2026 - To: 10 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 42 hrs 6 mins
+Total Time: 44 hrs 8 mins
 
-Haskell        29 hrs 21 mins  █████████████████▒░░░░░░░   68.93 %
-LaTeX          7 hrs 37 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-Rust           1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Ruby           1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-YAML           48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Cabal Config   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Other          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Haskell        29 hrs 49 mins  ████████████████▓░░░░░░░░   66.02 %
+LaTeX          4 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Python         2 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Markdown       1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+YAML           1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+TOML           1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Other          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
