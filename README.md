@@ -23,13 +23,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 17 January 2026 - To: 24 January 2026
+From: 24 January 2026 - To: 31 January 2026
 
-Total Time: 25 hrs
+Total Time: 41 hrs 42 mins
 
-Haskell        19 hrs 40 mins  ██████████████████▓░░░░░░   75.02 %
-YAML           2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Other          1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Haskell        20 hrs 15 mins  ███████████▓░░░░░░░░░░░░░   47.29 %
+LaTeX          11 hrs 8 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
+Lean4          4 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+Markdown       1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+YAML           1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Other          1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
