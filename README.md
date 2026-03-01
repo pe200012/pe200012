@@ -23,16 +23,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 14 February 2026 - To: 21 February 2026
+From: 21 February 2026 - To: 28 February 2026
 
-Total Time: 42 hrs 14 mins
+Total Time: 45 hrs 40 mins
 
-Lean4      25 hrs 18 mins        ███████████████░░░░░░░░░░   59.62 %
-Typst      13 hrs 54 mins        ████████▒░░░░░░░░░░░░░░░░   32.76 %
-Kotlin     1 hr 47 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Makefile   22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Java       17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Other      12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Typst          27 hrs 12 mins        ███████████████░░░░░░░░░░   59.48 %
+Lean4          13 hrs 41 mins        ███████▒░░░░░░░░░░░░░░░░░   29.93 %
+Haskell        2 hrs 32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+YAML           24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Kotlin         21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Java           17 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Makefile       11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+TSV            11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Rust           9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JSON           7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
