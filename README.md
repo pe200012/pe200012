@@ -23,20 +23,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 February 2026 - To: 07 March 2026
+From: 07 March 2026 - To: 14 March 2026
 
-Total Time: 45 hrs 42 mins
+Total Time: 28 hrs 11 mins
 
-Typst            32 hrs                █████████████████▒░░░░░░░   69.64 %
-GDScript3        4 hrs 28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Haskell          2 hrs 1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Godot Resource   1 hr 45 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Ruby             1 hr 29 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Markdown         1 hr 28 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Python           44 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Image (png)      28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Cabal Config     16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other            14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Typst            7 hrs 48 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
+Haskell          5 hrs 13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Markdown         5 hrs 5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
+GDScript3        3 hrs 19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+TypeScript       2 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Other            1 hr 45 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
