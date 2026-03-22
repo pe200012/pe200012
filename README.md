@@ -23,16 +23,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 March 2026 - To: 14 March 2026
+From: 14 March 2026 - To: 21 March 2026
 
-Total Time: 28 hrs 11 mins
+Total Time: 26 hrs 31 mins
 
-Typst            7 hrs 48 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
-Haskell          5 hrs 13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-Markdown         5 hrs 5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
-GDScript3        3 hrs 19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-TypeScript       2 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Other            1 hr 45 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Haskell          5 hrs 24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+Markdown         5 hrs 22 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+LaTeX            5 hrs 21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 %
+Kotlin           3 hrs 22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Lean4            2 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+GDScript3        1 hr 37 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Other            48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
