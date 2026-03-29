@@ -23,17 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 14 March 2026 - To: 21 March 2026
+From: 21 March 2026 - To: 28 March 2026
 
-Total Time: 26 hrs 31 mins
+Total Time: 25 hrs 15 mins
 
-Haskell          5 hrs 24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-Markdown         5 hrs 22 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-LaTeX            5 hrs 21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 %
-Kotlin           3 hrs 22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
-Lean4            2 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-GDScript3        1 hr 37 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Other            48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Lean4          16 hrs 17 mins        ███████████████░░░░░░░░░░   60.54 %
+LaTeX          3 hrs 22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Markdown       2 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+Haskell        1 hr 56 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Other          1 hr 38 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
 ```
 
 <!--END_SECTION:waka-->
