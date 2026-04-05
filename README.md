@@ -23,15 +23,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 March 2026 - To: 28 March 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Total Time: 25 hrs 15 mins
+Total Time: 13 hrs 30 mins
 
-Lean4          16 hrs 17 mins        ███████████████░░░░░░░░░░   60.54 %
-LaTeX          3 hrs 22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Markdown       2 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Haskell        1 hr 56 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Other          1 hr 38 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Typst          3 hrs 38 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+Markdown       2 hrs 39 mins         █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+Haskell        1 hr 56 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+LaTeX          1 hr 51 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Lean4          1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Image (png)    27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Rust           19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+YAML           16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JSON           15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+JavaScript     13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
