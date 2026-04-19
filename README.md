@@ -23,20 +23,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 April 2026 - To: 11 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
-Total Time: 23 hrs 45 mins
+Total Time: 42 hrs 26 mins
 
-Typst          8 hrs 27 mins         ████████▓░░░░░░░░░░░░░░░░   34.96 %
-Python         4 hrs 9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-LaTeX          3 hrs 37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-Markdown       3 hrs 17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Haskell        49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Bash           37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-C++            36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-CSV            36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Rust           27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Other          26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Haskell        16 hrs 45 mins        █████████▓░░░░░░░░░░░░░░░   38.85 %
+Typst          10 hrs 49 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
+Markdown       5 hrs 15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+LaTeX          4 hrs 10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Pyret          1 hr 11 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Cabal Config   54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Python         47 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Other          41 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
