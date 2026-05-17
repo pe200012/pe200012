@@ -23,15 +23,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 May 2026 - To: 09 May 2026
+From: 09 May 2026 - To: 16 May 2026
 
-Total Time: 29 hrs 51 mins
+Total Time: 19 hrs 53 mins
 
-Typst          18 hrs 43 mins        ███████████████░░░░░░░░░░   60.24 %
-Markdown       2 hrs 31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Python         1 hr 54 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-LaTeX          1 hr 33 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Other          1 hr 13 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Python              3 hrs 19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+Markdown            3 hrs 8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
+TeX                 2 hrs 36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Rust                2 hrs 36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+C++                 2 hrs 21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Typst               1 hr 35 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+JSON                1 hr 17 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+CMake               37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Other               28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
