@@ -23,14 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 May 2026 - To: 23 May 2026
+From: 23 May 2026 - To: 30 May 2026
 
-Total Time: 38 hrs 38 mins
+Total Time: 30 hrs 43 mins
 
-LaTeX         16 hrs 20 mins        ██████████░░░░░░░░░░░░░░░   40.61 %
-TypeScript    7 hrs 37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-Markdown      6 hrs 30 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-Other         1 hr 35 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+LaTeX      30 hrs 39 mins        ████████████████████████▒   97.87 %
+Other      35 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
