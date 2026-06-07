@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 May 2026 - To: 30 May 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 30 hrs 43 mins
+Total Time: 27 hrs 3 mins
 
-LaTeX      30 hrs 39 mins        ████████████████████████▒   97.87 %
-Other      35 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+LaTeX   27 hrs 3 mins         ████████████████████████▒   96.84 %
+Other   52 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
