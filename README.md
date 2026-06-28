@@ -23,13 +23,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 June 2026 - To: 20 June 2026
+From: 20 June 2026 - To: 27 June 2026
 
-Total Time: 9 hrs 39 mins
+Total Time: 1 hr 35 mins
 
-Lean4   7 hrs 52 mins         ████████████████████▒░░░░   81.61 %
-LaTeX   1 hr 46 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-TeX     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+LaTeX            46 mins               ████████████░░░░░░░░░░░░░   48.56 %
+Lean4            29 mins               ███████▓░░░░░░░░░░░░░░░░░   30.55 %
+Python           15 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+GDScript3        3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Git Config       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Godot Resource   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
