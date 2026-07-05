@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 June 2026 - To: 27 June 2026
+From: 27 June 2026 - To: 04 July 2026
 
-Total Time: 1 hr 35 mins
+Total Time: 5 hrs 25 mins
 
-LaTeX            46 mins               ████████████░░░░░░░░░░░░░   48.56 %
-Lean4            29 mins               ███████▓░░░░░░░░░░░░░░░░░   30.55 %
-Python           15 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-GDScript3        3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Git Config       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Godot Resource   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python        2 hrs 49 mins         █████████████░░░░░░░░░░░░   51.97 %
+Haskell       2 hrs 21 mins         ███████████░░░░░░░░░░░░░░   43.41 %
+YAML          10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Git Config    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Text          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+C             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Objective-C   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
