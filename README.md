@@ -23,17 +23,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 June 2026 - To: 04 July 2026
+From: 04 July 2026 - To: 11 July 2026
 
-Total Time: 5 hrs 25 mins
+Total Time: 30 mins
 
-Python        2 hrs 49 mins         █████████████░░░░░░░░░░░░   51.97 %
-Haskell       2 hrs 21 mins         ███████████░░░░░░░░░░░░░░   43.41 %
-YAML          10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Git Config    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Text          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-C             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Objective-C   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+LaTeX     25 mins               ████████████████████▓░░░░   83.10 %
+Haskell   5 mins                ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+TeX       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
