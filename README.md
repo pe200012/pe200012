@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 September 2026 - To: 12 September 2026
+From: 12 September 2026 - To: 19 September 2026
 
-Total Time: 13 hrs 39 mins
+Total Time: 5 hrs 49 mins
 
-Lean4   10 hrs 27 mins        ███████████████████░░░░░░   76.60 %
-LaTeX   3 hrs 11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.39 %
-Text    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Typst   3 hrs 16 mins         ██████████████░░░░░░░░░░░   56.36 %
+LaTeX   2 hrs 32 mins         ███████████░░░░░░░░░░░░░░   43.64 %
 ```
 
 <!--END_SECTION:waka-->
