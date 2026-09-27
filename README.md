@@ -33,4 +33,4 @@ Other   10 mins               ████░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-Science Tokyo Master, currently supervised by Prof. Hidehiko Masuhara. I prefer functional programming and am currently learning programming language theory. Feel free to PM me if you have questions.
+Science Tokyo Ph.D, currently supervised by Prof. Hidehiko Masuhara. I prefer functional programming and am currently learning programming language theory. Feel free to PM me if you have questions.
